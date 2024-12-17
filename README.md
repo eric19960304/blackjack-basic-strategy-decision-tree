@@ -56,4 +56,12 @@ flowchart TB
     split[Split]
 ```
 
-Source: https://www.blackjackapprenticeship.com/blackjack-strategy-charts/
+# Image version
+
+![/img/vertical.png](/img/vertical.png "vertical chart")
+
+![/img/horizontal.png](/img/horizontal.png "horizontal chart")
+
+# Source
+
+https://www.blackjackapprenticeship.com/blackjack-strategy-charts/
